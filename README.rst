@@ -9,6 +9,7 @@ and maintain high quality in their production.*
 
 *In this competition, you’ll help engineers improve the algorithm by localizing and classifying
 surface defects on a steel sheet.*
+We need to establish moving parts
 
 .. contents::
    :depth: 3
